@@ -1,11 +1,11 @@
 {
-  "name": "Yogabloom",
+  "name": "Teamproject-HTML-CSS",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/teamboom/",
+    "build": "vite build --base=/Teamproject-HTML-CSS/",
     "preview": "vite preview"
   },
   "devDependencies": {
